@@ -1,10 +1,12 @@
-/*--------------------------------------------------------------
-# General
---------------------------------------------------------------*/
 body {
   font-family: "Poppins", sans-serif;
   color: #000000;
+  background-position: center;
+  background-repeat: repeat-y;
+  background-size:contain;
 }
+
+
 
 a {
   text-decoration: none;
@@ -128,7 +130,6 @@ section {
   justify-content: space-between;
   position: relative;
   padding-right: 10px;
-  background: #fff;
   position: relative;
   z-index: 3;
   font-weight: 700;
@@ -145,7 +146,6 @@ section {
 }
 
 .menu .menu-content span {
-  background: #fff;
   position: relative;
   z-index: 3;
   padding: 0 10px;
@@ -155,7 +155,8 @@ section {
   font-style: italic;
   font-size: 14px;
   font-family: "Comic Neue", sans-serif;
-  color: #864f03;
+  color: #000000;
+  font-weight: bold;
 }
 
 
