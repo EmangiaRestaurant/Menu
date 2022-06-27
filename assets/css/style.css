@@ -1,25 +1,18 @@
-/**
-* Template Name: Delicious - v4.7.1
-* Template URL: https://bootstrapmade.com/delicious-free-restaurant-bootstrap-theme/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
-
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
 body {
   font-family: "Poppins", sans-serif;
-  color: #57605b;
+  color: #000000;
 }
 
 a {
   text-decoration: none;
-  color: #57605b;
+  color: #d5a558;
 }
 
 a:hover {
-  color: #57603a;
+  color: #d5a558;
   text-decoration: none;
 }
 
@@ -37,7 +30,7 @@ h1, h2, h3, h4, h5, h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #57605a;
+  background: #d5a558;
   width: 40px;
   height: 40px;
   border-radius: 50px;
@@ -49,7 +42,7 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 0;
 }
 .back-to-top:hover {
-  background: #57603a;
+  background: #b89a6a;
   color: #fff;
 }
 .back-to-top.active {
@@ -114,16 +107,16 @@ section {
   font-size: 14px;
   font-weight: 500;
   line-height: 1;
-  color: #444444;
+  color: #000000;
   margin: 0 3px 10px 3px;
   transition: all ease-in-out 0.3s;
   background: #fff;
-  border: 2px solid #57605b;
+  border: 2px solid #000000;
   border-radius: 50px;
 }
 .menu #menu-flters li:hover, .menu #menu-flters li.filter-active {
   color: #fff;
-  background: #57603a;
+  background: #000000;
 }
 .menu #menu-flters li:last-child {
   margin-right: 0;
@@ -139,7 +132,7 @@ section {
   position: relative;
   z-index: 3;
   font-weight: 700;
-  color: #57603a;
+  color: #000000;
 }
 .menu .menu-content::after {
   position: absolute;
@@ -162,7 +155,7 @@ section {
   font-style: italic;
   font-size: 14px;
   font-family: "Comic Neue", sans-serif;
-  color: #948c81;
+  color: #864f03;
 }
 
 
@@ -208,7 +201,7 @@ section {
   transition: 0.3s;
 }
 #footer .social-links a:hover {
-  background: #57603a;
+  background: #d5a558;
 }
 #footer .copyright {
   margin: 0 0 5px 0;
